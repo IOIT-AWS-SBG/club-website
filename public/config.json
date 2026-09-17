@@ -1,0 +1,16 @@
+{
+  "club_name": "AWS Student Builders",
+  "chapter": "AISSMS IOIT Chapter",
+  "hero": {
+    "title_main": "Build Scalable Cloud",
+    "title_highlight": "Infrastructure.",
+    "description": "The official AWS community at AISSMS IOIT. We bridge the gap between theoretical computer science and production-grade cloud architecture.",
+    "cta_text": "Join the Community",
+    "whatsapp_link": "https://chat.whatsapp.com/LGj5oR8GvuJ40SRggemWFT"
+  },
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/ioit-aws-sbg",
+    "instagram": "https://www.instagram.com/aws_sbg_aissmsioit26",
+    "whatsapp": "https://chat.whatsapp.com/LGj5oR8GvuJ40SRggemWFT"
+  }
+}

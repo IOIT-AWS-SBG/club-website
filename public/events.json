@@ -1,0 +1,31 @@
+[
+  {
+    "id": "001",
+    "status": "COMPLETED",
+    "title": "Deep Dive in AWS with Cloud Technology",
+    "subtitle": "Moving from Learning to Building to Contributing",
+    "date": "August 20, 2026",
+    "time": "14:00 to 15:30 IST",
+    "location": {
+      "room": "Multipurpose Hall",
+      "building": "AISSMS IOIT"
+    },
+    "speakers": [
+      {
+        "name": "Vishal Alhat",
+        "role": "Developer Advocate at AWS"
+      },
+      {
+        "name": "Jatin Mehrotra",
+        "role": "AWS DevOps Consultant"
+      }
+    ],
+    "execution_plan": [
+      "AWS & Cloud from a real-world perspective",
+      "Real-world applications & AWS services",
+      "DevOps & Cloud Native deployment",
+      "Projects you can build to stand out",
+      "Cloud learning & career roadmap"
+    ]
+  }
+]
