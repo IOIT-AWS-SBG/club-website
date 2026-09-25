@@ -24,17 +24,16 @@ export const Navbar = ({ config }: { config: Config }) => {
           </span>
         </div>
         
-        <div className="flex h-full">
-          {/* Solid Violet Block spanning full height of navbar */}
-          <Link
-            href={config.hero.whatsapp_link}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="h-full flex items-center px-6 bg-violet-600 text-white text-xs font-bold uppercase tracking-widest hover:bg-violet-700 transition-none"
-          >
-            Join Community
-          </Link>
-        </div>
+      <div className="flex h-full items-center pr-4 md:pr-6">
+  <Link
+    href={config.hero.whatsapp_link}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex items-center justify-center px-5 py-2 bg-violet-600 text-white text-xs font-bold uppercase tracking-widest hover:bg-violet-700 transition-colors"
+  >
+    Join Community
+  </Link>
+</div>
       </div>
     </nav>
   );

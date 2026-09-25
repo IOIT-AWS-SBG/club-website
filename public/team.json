@@ -1,0 +1,330 @@
+{
+  "faculty_coordinator": {
+    "name": "Prof. Chetan Aher",
+    "position": "Faculty Coordinator",
+    "photo": "/team/coreee/faculty.jpeg",
+    "linkedin": "https://www.linkedin.com/in/chetan-aher-49213722a/",
+    "description": "Faculty Coordinator, AWS Student Builder Group, AISSMS IOIT."
+  },
+  "members": [
+    {
+      "id": "001",
+      "name": "Shreyash Shinde",
+      "position": "Lead",
+      "category": "Core",
+      "photo": "/team/coreee/lead.jpeg",
+      "github": "https://github.com/shreyashvs28",
+      "linkedin": "https://www.linkedin.com/in/shreyashvshinde"
+    },
+    {
+      "id": "002",
+      "name": "Omkar Avasare",
+      "position": "Club Advisory",
+      "category": "Core",
+      "photo": "/team/coreee/club-advisory.jpg",
+      "github": "https://github.com/omkaravasare1",
+      "linkedin": "https://www.linkedin.com/in/omkar-avasare?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+    {
+      "id": "003",
+      "name": "Mayur Saitwal",
+      "position": "Co-organizer",
+      "category": "Core",
+      "photo": "/team/coreee/co-organizer.jpg",
+      "github": "https://github.com/MayurSaitwal",
+      "linkedin": "http://www.linkedin.com/in/mayursaitwal"
+    },
+    {
+      "id": "004",
+      "name": "Sachin Pawar",
+      "position": "Co-organizer",
+      "category": "Core",
+      "photo": "/team/coreee/co-organizer-2.png",
+      "github": "https://github.com/Sachinpawar5005",
+      "linkedin": "https://www.linkedin.com/in/sachin-pawar01/"
+    },
+     {
+      "id": "005",
+      "name": "Shivendra Devdhe",
+      "position": "Technical Lead",
+      "category": "Core",
+      "photo": "/team/coreee/technical-lead.jpeg",
+      "github": "https://github.com/shivendra-dev54",
+      "linkedin": "https://www.linkedin.com/in/shivendra-devadhe-97017a327/"
+    },
+    {
+      "id": "006",
+      "name": "Om Gutte",
+      "position": "Director of Event & Operations",
+      "category": "Core",
+      "photo": "/team/coreee/director event.png",
+      "github": "https://github.com/Omgutte45",
+      "linkedin": "https://www.linkedin.com/in/om-gutte-87766032b?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+    {
+      "id": "007",
+      "name": "Akash Sudrik",
+      "position": "Director of marketing and community ",
+      "category": "Core",
+      "photo": "/team/coreee/director marketing.png",
+      "github": "https://github.com/akashsudrik27062006-lang",
+      "linkedin": "https://www.linkedin.com/in/akash-sudrik-56297833b/"
+    }
+    ,
+    {
+      "id": "008",
+      "name": "Palak Gaikwad",
+      "position": "Head",
+      "category": "Technical",
+      "photo": "/team/technical/head.png",
+      "github": "https://github.com/PalakGaikwad",
+      "linkedin": "https://www.linkedin.com/in/palak-gaikwad-a121152b5/"
+    },
+    {
+      "id": "009",
+      "name": "Nilanjan Mane",
+      "position": "Member",
+      "category": "Technical",
+      "photo": "/team/technical/member-1.png",
+      "github": "https://github.com/nilanjanmane13",
+      "linkedin": "https://www.linkedin.com/in/nilanjan-mane-650097385"
+    },
+    {
+      "id": "010",
+      "name": "Raashi Dhamange",
+      "position": "Member",
+      "category": "Technical",
+      "photo": "/team/technical/member-2.png",
+      "github": "https://github.com/dhamangeraashi-bit",
+      "linkedin": "http://linkedin.com/in/raashidhamange"
+    },
+     {
+      "id": "011",
+      "name": "Shrikant Adhav",
+      "position": "Member",
+      "category": "Technical",
+      "photo": "/team/technical/member-3.png",
+      "github": "https://github.com/ShrikantAA",
+      "linkedin": "https://www.linkedin.com/in/shrikant-adhav-b65a1227b/"
+    },
+     {
+      "id": "012",
+      "name": "Samisksha Patil",
+      "position": "Member",
+      "category": "Technical",
+      "photo": "/team/technical/member-4.png",
+      "github": "https://github.com/samikshapatil1016",
+      "linkedin": "https://www.linkedin.com/in/samiksha-patil-9059b6328/"
+    },
+     {
+      "id": "013",
+      "name": "Aditya Patil",
+      "position": "Member",
+      "category": "Technical",
+      "photo": "/team/technical/member-5.jpg",
+      "github": "https://github.com/aditya-2605",
+      "linkedin": "https://www.linkedin.com/in/aditya-patil-2605ap?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+     {
+      "id": "014",
+      "name": "Vikas Godse",
+      "position": "Head",
+      "category": "Operation",
+      "photo": "/team/operation/head.png",
+      "github": "https://github.com/VikasGodase5298",
+      "linkedin": "https://www.linkedin.com/in/vikas-godase-0847b5348"
+    },
+     {
+      "id": "015",
+      "name": "Amarnath Gupta",
+      "position": "Member",
+      "category": "Operation",
+      "photo": "/team/operation/member-1.jpg",
+      "linkedin": "https://www.linkedin.com/in/amarnath-gupta-b05511407?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+     {
+      "id": "016",
+      "name": "Prasenjit Devdhe",
+      "position": "Member",
+      "category": "Operation",
+      "photo": "/team/operation/member-2.png",
+      "linkedin": "https://www.linkedin.com/in/prasenjit-devadhe-5b020a409?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+    {
+      "id": "017",
+      "name": "Atmaja More",
+      "position": "Member",
+      "category": "Operation",
+      "photo": "/team/operation/member-3.jpg",
+      "github":"https://github.com/atmaja2007",
+      "linkedin": "https://www.linkedin.com/in/atmaja-more-am0528"
+    },
+     {
+      "id": "018",
+      "name": "Mahesh Patil",
+      "position": "Head",
+      "category": "Media",
+      "photo": "/team/media/head.png",
+      "github":"https://github.com/maheshpatil-21",
+      "linkedin": "https://www.linkedin.com/in/mahesh-patil-6b9125361?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+     {
+      "id": "019",
+      "name": "Ronak Puri",
+      "position": "Member",
+      "category": "Media",
+      "photo": "/team/media/member-1.jpg",
+      "github":"https://github.com/purironak06-bot",
+      "linkedin": "https://www.linkedin.com/in/ronak-puri-81b246386?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+    {
+      "id": "020",
+      "name": "Nikhil Gavhane",
+      "position": "Member",
+      "category": "Media",
+      "photo": "/team/media/member-2.JPG",
+      "github":"https://github.com/gavhanenikhil24-max",
+      "linkedin": "https://www.linkedin.com/in/nikhil-gavhane-33070438a?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+     {
+      "id": "021",
+      "name": "Sanket Gore",
+      "position": "Head",
+      "category": "Design",
+      "photo": "/team/designn/head.png",
+      "github":"https://github.com/Sanket-Gore24",
+      "linkedin": "https://www.linkedin.com/in/sanket-gore-72092134b?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+     {
+      "id": "022",
+      "name": "Hareshwar Patil",
+      "position": "Member",
+      "category": "Design",
+      "photo": "/team/designn/member-1.png",
+      "github":"https://github.com/hareshwarpatil917-create",
+      "linkedin": "https://www.linkedin.com/in/hareshwar-patil-73a09535b?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+     {
+      "id": "023",
+      "name": "Juned Honwad",
+      "position": "Member",
+      "category": "Design",
+      "photo": "/team/designn/member-2.png",
+      "github":"https://github.com/JunedH09",
+      "linkedin": "https://www.linkedin.com/in/juned-honwad-86934a370?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+     {
+      "id": "024",
+      "name": "Aryan Deshmukh",
+      "position": "Member",
+      "category": "Design",
+      "photo": "/team/designn/member-3.jpg",
+      "github":"https://github.com/aryandeshmukh2707",
+      "linkedin": "https://www.linkedin.com/in/aryan-deshmukh-934531407"
+    },
+     {
+      "id": "025",
+      "name": "Tushar Bodhke",
+      "position": "Head",
+      "category": "Documentation",
+      "photo": "/team/documentationn/head.png",
+      "linkedin": "https://www.linkedin.com/in/tushar-bodake-8b526a312?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+     {
+      "id": "026",
+      "name": "Sukanya Salunke",
+      "position": "Member",
+      "category": "Documentation",
+      "photo": "/team/documentationn/member-1.jpg",
+      "github":"https://github.com/sukanya-salunke",
+      "linkedin": "https://www.linkedin.com/in/sukanya-salunke-5331a5385?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+     {
+      "id": "027",
+      "name": "Vaishnavi Shelke",
+      "position": "Member",
+      "category": "Documentation",
+      "photo": "/team/documentationn/member-2.png",
+      "linkedin": "https://www.linkedin.com/in/vaishnavi-shelke-019907385"
+    },
+     {
+      "id": "028",
+      "name": "Rudraksha Langde",
+      "position": "Head",
+      "category": "Community",
+      "photo": "/team/community/head.png",
+      "github":"https://github.com/Rudraksha6",
+      "linkedin": "https://www.linkedin.com/in/rudraksha-langde-831010376?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+     {
+      "id": "029",
+      "name": "Vivek Pawar",
+      "position": "Member",
+      "category": "Community",
+      "photo": "/team/community/member-1.jpg",
+      "linkedin": "https://www.linkedin.com/in/vivek-pawar-076862423?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+     {
+      "id": "030",
+      "name": "Parth Cherekar",
+      "position": "Member",
+      "category": "Community",
+      "photo": "/team/community/member-2.jpeg",
+      "github":"https://github.com/404ParthFound",
+      "linkedin": "http://linkedin.com/in/parth-cherekar-7a4877385"
+    },
+    {
+      "id": "031",
+      "name": "Diya Mokashi",
+      "position": "Member",
+      "category": "Community",
+      "photo": "/team/community/member-3.png",
+      "github":"https://github.com/DiyaMokashi",
+      "linkedin": "https://www.linkedin.com/in/diya-mokashi-3971a9424?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+    {
+      "id": "032",
+      "name": "Ranjit Pawra",
+      "position": "Member",
+      "category": "Community",
+      "photo": "/team/community/member-4.jpg",
+      "github":"https://github.com/Samashis",
+      "linkedin": "https://www.linkedin.com/in/ranjit-undefined-7183192a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BodFZPHwKQKug7KqLFgsjNg%3D%3D"
+    },
+    {
+      "id": "033",
+      "name": "Akib Momin",
+      "position": "Head",
+      "category": "Project",
+      "photo": "/team/projectt/head.jpg",
+      "github":"https://github.com/akib6momin",
+      "linkedin": "https://www.linkedin.com/in/akib-momin-a16304312?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+    {
+      "id": "034",
+      "name": "Tanvi Babar",
+      "position": "Member",
+      "category": "Project",
+      "photo": "/team/projectt/member-1.jpg",
+      "linkedin": "https://www.linkedin.com/in/tanvi-babar-1779ba385?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+    {
+      "id": "035",
+      "name": "Meghana Agnur",
+      "position": "Member",
+      "category": "Project",
+      "photo": "/team/projectt/member-2.jpg",
+      "github":"https://github.com/meghanaagnur",
+      "linkedin": "https://www.linkedin.com/in/meghana-agnur-84a294385/"
+    },
+    {
+      "id": "036",
+      "name": "Himani Bagale",
+      "position": "Member",
+      "category": "Project",
+      "photo": "/team/projectt/member-3.jpeg",
+      "github":"https://github.com/Himani78116",
+      "linkedin": "https://www.linkedin.com/in/himanibagale/"
+    }
+  ]
+}
