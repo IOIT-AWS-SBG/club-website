@@ -2,9 +2,16 @@ export interface TeamMember {
   id: string;
   name: string;
   position: string;
-  category: string;
-  photo: string;
+  category?: string;
+  photo?: string;
   github?: string;
+  linkedin?: string;
+}
+
+export interface Principal {
+  name: string;
+  position: string;
+  photo?: string;
   linkedin?: string;
 }
 
@@ -13,10 +20,18 @@ export interface FacultyCoordinator {
   position: string;
   photo: string;
   linkedin?: string;
-  github?: string;
+}
+
+export interface TeamSection {
+  name: string;
+  head: TeamMember;
+  members: TeamMember[];
 }
 
 export interface TeamData {
+  principal: Principal;
   faculty_coordinator: FacultyCoordinator;
-  members: TeamMember[];
+  advisory_team: TeamMember[];
+  core_committee: TeamMember[];
+  teams: TeamSection[];
 }
